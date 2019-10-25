@@ -1,0 +1,28 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "This is a chat app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dibashthapa/Chat-App.git"
+  },
+  "keywords": [
+    "#Chatapp",
+    "#Socket.io",
+    "#NodeJs",
+    "#ExpressJs"
+  ],
+  "author": "Dibash Thapa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dibashthapa/Chat-App/issues"
+  },
+  "homepage": "https://github.com/dibashthapa/Chat-App#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
